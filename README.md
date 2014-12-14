@@ -22,4 +22,4 @@ Follow the following steps to run the code:
 The input must be stored on a single line in a .txt file in the folder `./input`.
 
 ## Input format
-The input file will have the following format `[$,$,$]` or `$,$,$` where `$` are numbers.
+The input file will have the following format `[$,$,$]` or `$,$,$` where `$` is a number.
